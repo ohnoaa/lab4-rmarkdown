@@ -1,0 +1,6 @@
+---
+title: 'Lab 4: RMarkdown'
+author: "Noa Avitan"
+date: "2023-02-15"
+output: html_document
+---
